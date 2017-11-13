@@ -35,6 +35,12 @@ dofile("system/menu.lua")
 dofile("system/commons.lua")
 dofile("system/scan.lua")
 
+-- Loading sa0 fonts and setting up
+setupfonts()
+
+-- Loading Special chars 
+preloadsymbols()
+
 --Search Nonpdrm games
 scan.app()
 

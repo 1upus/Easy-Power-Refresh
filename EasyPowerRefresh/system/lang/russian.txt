@@ -1,0 +1,36 @@
+--Texts
+strings = {
+
+--Options Menu
+restart       = "Перезагрузить PSVita",
+shutdown      = "Выключить PSVita",
+refreshdb     = "Обновить БД",
+reloadconfig  = "Перезагрузить Config.txt",
+usb           = "Режим подключения USB",
+nonmpdrm      = "Установка игр NoNpDrm",
+
+--MessageBox
+configreload2 = "\nНастройки TaiHen будут обновлены.",
+configreload  = "\nОбновление настроек TaiHen выполнено!",
+confirmdb     = "\nВыполнить обновление базы данных?\n\nПузыри PSM будут добавлены на экран LiveArea.",
+updatedb      = "\nНеобходимо выполнить перезагрузку PSVita...",
+nogames       = "\nИгры NoNpDrm не найдены.",
+
+install       = "Установка...",
+notinstalled  = "\nИгр не установлено: ",
+gamesinst     = "\nВсего игр: ",
+gamefind      = "\nИгр найдено: ",
+
+------------	USB 		---------------------------------------------------------------------------------
+usb           = "USB",
+connectusb    = "Подключите кабель USB",
+usbconnection = "USB соединение установлено",
+cancel        = "Отмена",
+cancelusb     = "Отключить",
+usbmode       = "Выбор режима USB подключения:",
+usbfail       = "Ошибка подключения...",
+sd2vita       = "SD2Vita",
+memcard       = "Memory Card",
+gamecard      = "Game Card",
+
+}
